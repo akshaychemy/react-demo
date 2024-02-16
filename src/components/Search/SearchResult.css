@@ -1,0 +1,20 @@
+.search-result {
+    padding: 10px 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .search-result:hover {
+    background-color: #efefef;
+  }
+  .leftDark{
+    color: black !important;
+  }
+
+  .search-result {
+    padding: 10px 40px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+  
